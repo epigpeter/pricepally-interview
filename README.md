@@ -23,4 +23,4 @@
 
 - Run Application
   php artisan serve
-- Open your browser on localhost:8000
+- Open your browser on http://localhost:8000
