@@ -2,7 +2,7 @@
 
 - This project was written in PHP 8.1
   
-- Clone code to your system
+- Clone repo to your system
   git clone https://github.com/epigpeter/pricepally-interview.git
 
 - Install composer packages.
